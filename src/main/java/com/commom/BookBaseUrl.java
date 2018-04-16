@@ -15,7 +15,4 @@ public class BookBaseUrl {
     public static String QINGWEN_BASE_URL="https://www.iqing.in/book/";
     //SF书籍的基本地址
     public static String SF_BASE_URL="http://book.sfacg.com/Novel/";
-
-
-
 }
